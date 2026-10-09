@@ -54,6 +54,8 @@ Press `w` to open web preview, or scan the QR code with Expo Go for a device tes
 10. Build, install, and test an Android APK before submission.
 
 ## Android APK
+APK Link:
+https://expo.dev/accounts/saranmathesh/projects/digital-archive/builds/bd3d1d3e-b97f-4fc8-9aba-b3b1c4ff1dc0
 
 For an EAS cloud build, configure the Expo project with EAS Build, then run:
 
