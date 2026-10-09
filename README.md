@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Archive
 
 A local-first mobile archive built with Expo, React Native, Expo Router, AsyncStorage, and Expo Document Picker.
@@ -67,3 +68,6 @@ Create an `eas.json` with a preview profile that produces an APK if the project 
 ## Current AI behavior
 
 The “Ask your archive” screen performs local keyword matching against saved filenames, categories, and tags. It is not an LLM-based semantic search service. No API secret is embedded in the mobile client.
+=======
+# digitalarchive
+>>>>>>> b2e45c494cbd39fdf3393a57dbd73c70a21b0347
